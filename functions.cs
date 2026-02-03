@@ -10,6 +10,7 @@ namespace ITI_CS_LAB3
 
     }
 
+    // ==================== TASK 1 ====================
     class Person
     {
         public string FirstName { get; set; }
@@ -17,6 +18,7 @@ namespace ITI_CS_LAB3
         public int Age { get; set; }
     }
 
+    // ==================== TASK 2 ====================
     class Rectangle
     {
         public double Width { get; set; }
@@ -32,6 +34,7 @@ namespace ITI_CS_LAB3
         }
     }
 
+    // ==================== TASK 3 ====================
     class Gradebook
     {
         private double[] grades;
@@ -61,6 +64,7 @@ namespace ITI_CS_LAB3
         }
     }
 
+    // ==================== TASK 4 ====================
     class Collection
     {
         private string[] names = new string[5];
@@ -117,6 +121,7 @@ namespace ITI_CS_LAB3
         }
     }
 
+    // ==================== TASK 7 ====================
     static class calc
     {
         public static int Divide(int a, int b)
