@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oooam\\source\\repos\\ITI_CS_LAB1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBD94DD-1BBA-2AE2-DF0B-AB66830EAE1B}|ITI_CS_LAB1\\ITI_CS_LAB1.csproj|c:\\users\\oooam\\source\\repos\\iti_cs_lab1\\iti_cs_lab1\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBD94DD-1BBA-2AE2-DF0B-AB66830EAE1B}|ITI_CS_LAB1\\ITI_CS_LAB1.csproj|solutionrelative:iti_cs_lab1\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBD94DD-1BBA-2AE2-DF0B-AB66830EAE1B}|ITI_CS_LAB1\\ITI_CS_LAB1.csproj|c:\\users\\oooam\\source\\repos\\iti_cs_lab1\\iti_cs_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBD94DD-1BBA-2AE2-DF0B-AB66830EAE1B}|ITI_CS_LAB1\\ITI_CS_LAB1.csproj|solutionrelative:iti_cs_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "functions.cs",
+              "DocumentMoniker": "C:\\Users\\oooam\\source\\repos\\ITI_CS_LAB1\\ITI_CS_LAB1\\functions.cs",
+              "RelativeDocumentMoniker": "ITI_CS_LAB1\\functions.cs",
+              "ToolTip": "C:\\Users\\oooam\\source\\repos\\ITI_CS_LAB1\\ITI_CS_LAB1\\functions.cs",
+              "RelativeToolTip": "ITI_CS_LAB1\\functions.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T10:54:11.634Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oooam\\source\\repos\\ITI_CS_LAB1\\ITI_CS_LAB1\\Program.cs",
+              "RelativeDocumentMoniker": "ITI_CS_LAB1\\Program.cs",
+              "ToolTip": "C:\\Users\\oooam\\source\\repos\\ITI_CS_LAB1\\ITI_CS_LAB1\\Program.cs",
+              "RelativeToolTip": "ITI_CS_LAB1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T10:50:54.877Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

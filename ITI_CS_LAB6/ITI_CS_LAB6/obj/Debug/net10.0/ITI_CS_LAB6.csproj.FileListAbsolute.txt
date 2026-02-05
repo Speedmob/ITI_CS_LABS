@@ -1,0 +1,14 @@
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\bin\Debug\net10.0\ITI_CS_LAB6.exe
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\bin\Debug\net10.0\ITI_CS_LAB6.deps.json
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\bin\Debug\net10.0\ITI_CS_LAB6.runtimeconfig.json
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\bin\Debug\net10.0\ITI_CS_LAB6.dll
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\bin\Debug\net10.0\ITI_CS_LAB6.pdb
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\obj\Debug\net10.0\ITI_CS_LAB6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\obj\Debug\net10.0\ITI_CS_LAB6.AssemblyInfoInputs.cache
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\obj\Debug\net10.0\ITI_CS_LAB6.AssemblyInfo.cs
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\obj\Debug\net10.0\ITI_CS_LAB6.csproj.CoreCompileInputs.cache
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\obj\Debug\net10.0\ITI_CS_LAB6.dll
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\obj\Debug\net10.0\refint\ITI_CS_LAB6.dll
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\obj\Debug\net10.0\ITI_CS_LAB6.pdb
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\obj\Debug\net10.0\ITI_CS_LAB6.genruntimeconfig.cache
+C:\Users\oooam\source\repos\ITI_CS_LAB5\ITI_CS_LAB5\obj\Debug\net10.0\ref\ITI_CS_LAB6.dll
