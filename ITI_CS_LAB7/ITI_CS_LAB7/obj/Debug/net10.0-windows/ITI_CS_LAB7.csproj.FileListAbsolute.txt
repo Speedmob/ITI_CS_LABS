@@ -1,0 +1,17 @@
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\bin\Debug\net10.0-windows\ITI_CS_LAB7.exe
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\bin\Debug\net10.0-windows\ITI_CS_LAB7.deps.json
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\bin\Debug\net10.0-windows\ITI_CS_LAB7.runtimeconfig.json
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\bin\Debug\net10.0-windows\ITI_CS_LAB7.dll
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\bin\Debug\net10.0-windows\ITI_CS_LAB7.pdb
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\obj\Debug\net10.0-windows\ITI_CS_LAB7.Form1.resources
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\obj\Debug\net10.0-windows\ITI_CS_LAB7.csproj.GenerateResource.cache
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\obj\Debug\net10.0-windows\ITI_CS_LAB7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\obj\Debug\net10.0-windows\ITI_CS_LAB7.AssemblyInfoInputs.cache
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\obj\Debug\net10.0-windows\ITI_CS_LAB7.AssemblyInfo.cs
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\obj\Debug\net10.0-windows\ITI_CS_LAB7.csproj.CoreCompileInputs.cache
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\obj\Debug\net10.0-windows\ITI_CS_LAB7.sourcelink.json
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\obj\Debug\net10.0-windows\ITI_CS_LAB7.dll
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\obj\Debug\net10.0-windows\refint\ITI_CS_LAB7.dll
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\obj\Debug\net10.0-windows\ITI_CS_LAB7.pdb
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\obj\Debug\net10.0-windows\ITI_CS_LAB7.genruntimeconfig.cache
+C:\Users\oooam\source\repos\ITI_CS_LAB7\ITI_CS_LAB7\obj\Debug\net10.0-windows\ref\ITI_CS_LAB7.dll
